@@ -29,7 +29,7 @@ VaultPad is a secure text editor designed to allow users to write, edit, and sto
 1. Install with the Setup file
 
     ```
-    link here
+    https://github.com/noel560/VaultPad/releases/latest/download/VaultPad.Setup.exe
     ```
 
 2. Download manually
