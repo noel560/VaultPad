@@ -1,0 +1,6 @@
+__pycache__/
+VaultPadIcon.ico
+dist/
+build/
+VaultPad.spec
+buildvaultpad.bat
