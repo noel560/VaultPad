@@ -1,5 +1,5 @@
 @echo off
 
-pip install -r requirements.txt
+pip install -r windows-requirements.txt
 
 python main.py
